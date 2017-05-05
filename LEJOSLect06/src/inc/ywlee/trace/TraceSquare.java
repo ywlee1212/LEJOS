@@ -22,7 +22,7 @@ public class TraceSquare {
 	// Chassis information
 	double wheelDiameter = 5.6;
 	double offsetN = 6.0;
-	double travelDistance = 30.0;
+	double travelDistance = 100.0;
 
 	Chassis chassis;
 	MovePilot movePilot;
